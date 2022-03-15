@@ -1,7 +1,6 @@
 {
   "name": "js-pkg-test",
   "version": "1.0.0",
-  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "2.5.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JashDev/js-pkg-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JashDev/js-pkg-test/issues"
+  },
+  "homepage": "https://github.com/JashDev/js-pkg-test#readme",
+  "description": "Test first package"
 }
