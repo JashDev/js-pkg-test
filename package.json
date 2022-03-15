@@ -1,5 +1,5 @@
 {
-  "name": "js-pkg-test",
+  "name": "@jsifuentes/js-pkg-test",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
